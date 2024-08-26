@@ -20,6 +20,8 @@ The analysis uses a combination of open-source data sets from Instacart and a cu
 - Customer Data (fictional, created for this project)
 - Instacart Data Sets (from "The Instacart Online Grocery Shopping Dataset 2017")
 
+  [Dataset link](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis/data)
+
 ## Tools Used
 - Python
 - Pandas
