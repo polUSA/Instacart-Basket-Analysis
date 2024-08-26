@@ -1,7 +1,7 @@
 # Instacart Basket Analysis
 
 ## Project Overview
-This project is part of the CareerFoundry Data Analytics Program. It involves an analysis of Instacart's online grocery shopping data to uncover sales patterns and customer behaviors. The goal is to derive insights for better customer segmentation and targeted marketing strategies.
+This project is part of the Data Analytics learning journey. It involves an analysis of Instacart's online grocery shopping data to uncover sales patterns and customer behaviors. The goal is to derive insights for better customer segmentation and targeted marketing strategies.
 
 **Note:** This project uses a fictional version of Instacart and simulated data for educational purposes.
 
